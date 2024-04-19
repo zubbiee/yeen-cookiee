@@ -48,7 +48,7 @@ nav a:hover {
 }
 .hero {
   height: 90vh;
-  background-image: url(/cookie2.jpg);
+  background-image: url(images/cookie2.jpg);
   background-size: cover;
   background-position: center;
   /* background-repeat: no-repeat; */
@@ -206,6 +206,9 @@ footer {
     padding: 5%;
     /* width: 70%; */
   }
+  .hidden {
+    display: none;
+  }
 }
 @media (max-width: 1400px) {
   html {
@@ -217,5 +220,8 @@ footer {
   #contactcard a {
     padding: 5%;
     /* width: 30%; */
+  }
+  .hidden {
+    display: none;
   }
 }
