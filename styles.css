@@ -208,6 +208,9 @@ footer {
     padding: 5%;
     /* width: 70%; */
   }
+  #contactcard {
+    top: 10%;
+  }
   /* .hidden {
     display: none;
   } */
